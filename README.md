@@ -10,10 +10,10 @@
 
 #
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](Meu link)
+)](https://www.linkedin.com/in/yan-henrique-3b11802b9/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](meu link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](meu link)
+)](https://www.linkedin.com/in/yan-henrique-3b11802b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-henrique-3b11802b9/)
 
 #
 <div>
