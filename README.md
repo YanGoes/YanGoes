@@ -23,7 +23,6 @@
 
 # Tecnologias
 
-#
 <div style="display: inline_block"><br>
   <img align="center" alt= "Yan-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg">
   <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
