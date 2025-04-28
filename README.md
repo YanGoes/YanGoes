@@ -21,8 +21,7 @@
 <img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGoes&hide=html&theme=dark"/>
 </div>
 
-#
-Tecnologias
+# Tecnologias
 
 #
 <div style="display: inline_block"><br>
