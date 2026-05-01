@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=1000&color=29AEF7&width=600&lines=Yan+Henrique+Rios+G%C3%B3es+Santos;Future+Full+Stack+Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=1000&color=29AEF7&width=600&lines=Yan+Henrique+Rios+G%C3%B3es+Santos;Futuro+Desenvolvedor+Full+Stack">
 </p>
 
 <h3 align="center">🚀 Desenvolvedor Full Stack em formação</h3>
