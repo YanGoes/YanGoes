@@ -1,39 +1,132 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=1000&color=29AEF7&width=435&lines=Yan+Henrique+Rios+G%C3%B3es+Santos">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=1000&color=29AEF7&width=600&lines=Yan+Henrique+Rios+G%C3%B3es+Santos;Future+Full+Stack+Developer">
 </p>
 
+<h3 align="center">🚀 Desenvolvedor Full Stack em formação</h3>
 
-#
-<P aling="center">
-  Escrever depois sobre mim
-</P>
+---
 
-#
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/yan_.hick/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-henrique-3b11802b9/)
+# 👋 Olá, eu sou o Yan
 
-#
-<div>
-<img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=YanGoes&show_icons=true&theme=dark"/>
-<img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGoes&hide=html&theme=dark"/>
-</div>
+Sou estudante de **Ciência da Computação (5º semestre)** e meu principal objetivo é me tornar um **Desenvolvedor Full Stack**, criando soluções completas no back-end, front-end, automação de processos e também explorando o desenvolvimento mobile.
 
-# Tecnologias
+Ao longo da minha jornada venho construindo projetos práticos para fortalecer minhas habilidades em desenvolvimento de software, banco de dados, APIs e aplicações mobile.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yan-md" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
-  <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Yan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Yan-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Yan-junit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">
-  <img align="center" alt="Yan-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Yan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Yan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt=Yan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+Possuo experiência prática com:
 
-</div>
+- ☕ Java  
+- 🌱 Spring Boot  
+- 📱 Kotlin Android  
+- 🟨 JavaScript  
+- 🟩 Node.js  
+- ⚛️ React  
+- 🟢 Vue.js  
+- 🎨 HTML / CSS / Bootstrap / Sass  
+- 🗄️ MySQL  
+- 🔥 Firebase  
+- 🐍 Python  
+- 🧪 Testes de Software (QA)  
+- 🤖 Engenharia de Prompt  
+- 🔄 Automação de Processos  
+- 📊 Manipulação e tratamento de dados  
+
+Estou sempre buscando aprender novas tecnologias e desenvolver projetos que resolvam problemas reais.
+
+---
+
+# 🚀 Projetos em Destaque
+
+### 🎮 Sistema de Locadora de Jogos
+Projeto completo utilizando:
+
+- Node.js  
+- MySQL  
+- API REST  
+- Sistema de login  
+- Carrinho de compras  
+- Histórico de vendas  
+- Testes automatizados com JMeter  
+
+---
+
+### 💊 Sistema de Farmácia
+Projeto com foco em:
+
+- CRUD completo  
+- Sistema de login  
+- Gerenciamento de produtos  
+- Banco de dados  
+
+---
+
+### 📱 Projetos Android com Kotlin
+Repositório dedicado aos meus projetos mobile utilizando:
+
+- Kotlin  
+- Android Studio  
+- XML  
+- Navegação entre telas  
+- Interfaces responsivas  
+
+---
+
+### 🤖 Projetos de Automação com Python
+Scripts voltados para:
+
+- Automação de tarefas  
+- Tratamento de dados  
+- Extração de informações  
+- Otimização de processos  
+
+---
+
+# 🌐 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yan-henrique-3b11802b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/yan_.hick/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!--
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanGoes&show_icons=true&theme=dark"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGoes&layout=compact&theme=dark"/>
+</p>
+-->
+
+---
+
+# 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,javascript,react,vue,html,css,bootstrap,sass,python,mysql,firebase,git,c" />
+</p>
+
+---
+
+# 💼 Experiências Técnicas
+
+✅ Desenvolvimento Full Stack  
+✅ APIs REST  
+✅ Banco de Dados Relacionais  
+✅ Desenvolvimento Mobile  
+✅ Testes de Software (QA)  
+✅ Engenharia de Prompt  
+✅ Automação de Processos  
+✅ Versionamento com Git  
+
+---
+
+<p align="center">
+  <i>"Transformando lógica em soluções reais através da tecnologia."</i>
+</p>
